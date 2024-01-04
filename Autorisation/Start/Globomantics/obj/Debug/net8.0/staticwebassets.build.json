@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mqW1XdqaDunLl82RS3jfS9tzgg7CUKj7DFZn02e68pE=",
+  "Source": "Globomantics",
+  "BasePath": "_content/Globomantics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Globomantics\\wwwroot",
+      "Source": "Globomantics",
+      "ContentRoot": "C:\\Developpement\\Source\\Repos\\Autorisation\\Start\\Globomantics\\wwwroot\\",
+      "BasePath": "_content/Globomantics",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Developpement\\Source\\Repos\\Autorisation\\Start\\Globomantics\\wwwroot\\img\\globomantics-logo-darkblue.png",
+      "SourceId": "Globomantics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Developpement\\Source\\Repos\\Autorisation\\Start\\Globomantics\\wwwroot\\",
+      "BasePath": "_content/Globomantics",
+      "RelativePath": "img/globomantics-logo-darkblue.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\globomantics-logo-darkblue.png"
+    }
+  ]
+}
